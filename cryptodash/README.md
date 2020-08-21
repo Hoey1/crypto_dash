@@ -40,6 +40,8 @@
 - Display name and image of coin next to chart
 - Dark / Light Mode
 
+---
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
